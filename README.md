@@ -26,6 +26,14 @@
 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/question.png" width="50px" />  Ask me about ...
 - <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/chat.gif" height="35px" /> anything, I am really a talkative person, happy to help 
+
+### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pickaxe.png" width="40px" /> Tools and Frameworks
+<p align="center">
+    <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" height="35px" style="vertical-align:top margin:6px 4px" /> PYTHON
+     <img src="https://www.dmcinfo.com/DesktopModules/DnnForge%20-%20NewsArticles/ImageHandler.ashx?Width=925&Height=400&HomeDirectory=%2FPortals%2F0%2F&FileName=Blog+Pictures%2FROS_Thumb.png&PortalID=0&q=1" height="35px" style="vertical-align:top margin:6px 4px" /> ROS
+      <img src="https://img.icons8.com/color/344/linux--v1.png" height="35px" style="vertical-align:top margin:6px 4px" /> LINUX
+       <img src="https://img.icons8.com/fluency/344/arduino.png" height="35px" style="vertical-align:top margin:6px 4px" /> ARDUINO
+
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="50px" /> How to reach me: ...
 <p align="center">
 
@@ -37,14 +45,7 @@
   </a>
 </p>
 
-### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pickaxe.png" width="40px" /> Tools and Frameworks
-<p align="center">
-    <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" height="35px" style="vertical-align:top margin:6px 4px" /> PYTHON
-     <img src="https://www.dmcinfo.com/DesktopModules/DnnForge%20-%20NewsArticles/ImageHandler.ashx?Width=925&Height=400&HomeDirectory=%2FPortals%2F0%2F&FileName=Blog+Pictures%2FROS_Thumb.png&PortalID=0&q=1" height="35px" style="vertical-align:top margin:6px 4px" /> ROS
-      <img src="https://img.icons8.com/color/344/linux--v1.png" height="35px" style="vertical-align:top margin:6px 4px" /> LINUX
-       <img src="https://img.icons8.com/fluency/344/arduino.png" height="35px" style="vertical-align:top margin:6px 4px" /> ARDUINO
-
-             
+### <img src="https://github-readme-stats.vercel.app/api/top-langs?username=al3v&layout=compact&theme=dark"/>       
 
 
 
