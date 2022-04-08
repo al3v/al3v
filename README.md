@@ -2,7 +2,7 @@
 
 <p align="center" >
   <samp>
-    My name is <em>Alev</em>. <br/> I am a senior Physics student and a self-taught robotics enthusiast 
+    My name is <em>Alev</em>. <br/> I am a senior Physics student and a self-taught robotics and programming enthusiast 
           
  
   </samp>
