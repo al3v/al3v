@@ -30,7 +30,8 @@
      <img src="https://www.dmcinfo.com/DesktopModules/DnnForge%20-%20NewsArticles/ImageHandler.ashx?Width=925&Height=400&HomeDirectory=%2FPortals%2F0%2F&FileName=Blog+Pictures%2FROS_Thumb.png&PortalID=0&q=1" height="35px" style="vertical-align:top margin:6px 4px" /> ROS
       <img src="https://img.icons8.com/color/344/linux--v1.png" height="35px" style="vertical-align:top margin:6px 4px" /> LINUX
        <img src="https://img.icons8.com/fluency/344/arduino.png" height="35px" style="vertical-align:top margin:6px 4px" /> ARDUINO
-
+        <img src="https://ih1.redbubble.net/image.658251196.2187/st,small,507x507-pad,600x600,f8f8f8.u3.jpg" height="35px" style="vertical-align:top margin:6px 4px" /> C++
+  
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="50px" /> How to reach me: ...
 <p align="center">
 
