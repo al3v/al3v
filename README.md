@@ -2,7 +2,9 @@
 
 <p align="center" >
   <samp>
-### <img src="https://media.tenor.com/images/df8c44a1d20ab367fdcb21880985fd33/tenor.gif" align="right"  width="30%"/>    My name is <em>Alev</em>. <br/> I am a senior Physics student and a self-taught robotics and programming enthusiast 
+    My name is <em>Alev</em>. <br/> I am a senior Physics student and a self-taught robotics and programming enthusiast  
+    
+ <p align="center" >  <img src="https://media.tenor.com/images/df8c44a1d20ab367fdcb21880985fd33/tenor.gif" align="right"  width="90%"/>
           
  
   </samp>
@@ -10,8 +12,6 @@
   <br/>
   <br/>
 </p>
-
-<img src="https://media.tenor.com/images/df8c44a1d20ab367fdcb21880985fd33/tenor.gif" align="right"  width="30%"/>
 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" width="70px" /> I’m currently working on ...
 - <img src="https://cdn-icons.flaticon.com/png/512/2814/premium/2814666.png?token=exp=1649444720~hmac=2a012688594d0b348fcf7c6468138f3d" height="40px" />  Slam with Ros framework
