@@ -2,7 +2,7 @@
 
 <p align="center" >
   <samp>
-    My name is <em>Alev</em>. <br/> I am a senior Physics student and a self-taught robotics and programming enthusiast 
+### <img src="https://media.tenor.com/images/df8c44a1d20ab367fdcb21880985fd33/tenor.gif" align="right"  width="30%"/>    My name is <em>Alev</em>. <br/> I am a senior Physics student and a self-taught robotics and programming enthusiast 
           
  
   </samp>
