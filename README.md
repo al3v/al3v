@@ -14,7 +14,7 @@
 </p>
 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" width="70px" /> I’m currently working on ...
-- <img src="https://cdn-icons.flaticon.com/png/512/2814/premium/2814666.png?token=exp=1649444720~hmac=2a012688594d0b348fcf7c6468138f3d" height="40px" />  Slam with Ros framework
+- <img src="https://cdn-icons-png.flaticon.com/512/3576/3576335.png" height="40px" />  Slam with Ros framework
 ### <img src="https://www.kodable.com/learn/wp-content/uploads/2019/08/learning-gif-5-1.gif" height="50px" /> I’m currently learning ...
 - <img src="https://ih1.redbubble.net/image.658251196.2187/st,small,507x507-pad,600x600,f8f8f8.u3.jpg" width="30px" /> C++
 - <img src="https://cdn0.iconfinder.com/data/icons/engineering-3/64/electronics-512.png" height="35px" /> Digital Electronics
