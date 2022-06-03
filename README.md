@@ -1,10 +1,10 @@
-## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> Hello!
+## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="80px" /> Hello!
 
 <p align="center" >
   <samp>
     My name is <em>Alev</em>. <br/> I am a senior Physics student and a self-taught robotics and programming enthusiast  
     
- <p align="center" >  <img src="https://media.tenor.com/images/df8c44a1d20ab367fdcb21880985fd33/tenor.gif" align="right"  width="90%"/>
+ <p align="center" >  <img src="https://media.tenor.com/images/df8c44a1d20ab367fdcb21880985fd33/tenor.gif" align="right"  width="30%"/>
           
  
   </samp>
