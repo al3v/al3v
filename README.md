@@ -43,7 +43,7 @@
   </a>
 </p>
 
-<a href="https://www.buymeacoffee.com/AlevAyaz?new=1" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+<a href="https://www.buymeacoffee.com/AlevAyaz" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 ### <img src="https://github-readme-stats.vercel.app/api/top-langs?username=al3v&layout=compact&theme=dark"/>       
 
