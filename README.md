@@ -38,9 +38,6 @@
   <a href="https://www.linkedin.com/in/alevayaz/">
     <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/linkedin.webp" height="35px" style="margin: 5px;" />
   </a>
-  <a href="https://www.instagram.com/299.792.458/">
-    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/instagram.webp" height="35px" style="margin: 5px;" />
-  </a>
 </p>
 
 <a href="https://www.buymeacoffee.com/AlevAyaz" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="65" width="198"></a>
