@@ -2,7 +2,7 @@
 
 <p align="center" >
   <samp>
-    I'm <em>Alev</em>. <br/> I am a Physicist and a self-taught robotics and programming enthusiast.  
+    I'm <em>Alev</em>. <br/> I am a Cloud Engineer, physicist and a self-taught robotics and programming enthusiast.  
     
  <p align="center" >  <img src="https://media.tenor.com/images/df8c44a1d20ab367fdcb21880985fd33/tenor.gif" align="right"  width="30%"/>
           
