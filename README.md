@@ -44,7 +44,5 @@
 ### <img src="https://github-readme-stats.vercel.app/api/top-langs?username=al3v&layout=compact&theme=dark"/>       
 
 
-![Snake animation](https://github.com/al3v/{{your_username}}/blob/output/github-contribution-grid-snake.svg)
-
 
 ---
