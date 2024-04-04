@@ -14,14 +14,13 @@ al3v@github:~$ ./welcome.sh
 
 ```markdown
  _______________________________
-< Welcome to my GitHub page! >
+< ･༓☾ Welcome to my GitHub page ♡༓･>
  -------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
-
 
 
 ```
