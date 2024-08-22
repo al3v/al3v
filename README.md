@@ -36,6 +36,7 @@ al3v@github:~$ ./welcome.sh
         <img src="https://github.com/al3v/al3v/assets/73062283/891c256d-cece-45d9-b17f-d7c689dcc4f4" height="35px" style="vertical-align:top margin:6px 4px" /> AWS
          <img src="https://github.com/al3v/al3v/assets/73062283/97c7cf9b-2344-43da-af8e-66f5f93b5254" height="35px" style="vertical-align:top margin:6px 4px" /> Terraform
           <img src="https://github.com/al3v/al3v/assets/73062283/41d48e18-c6f9-4ce1-a56f-d6b55dad9398" height="35px" style="vertical-align:top margin:6px 4px" /> Docker
+           <img src="https://github.com/user-attachments/assets/cc01897e-fbb9-46bc-afa7-1f5d90b17432" height="35px" style="vertical-align:top margin:6px 4px" /> Huawei Cloud
   
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="50px" /> How to reach me: ...
 <p align="left">
